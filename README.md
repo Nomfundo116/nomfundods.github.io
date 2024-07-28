@@ -8,9 +8,9 @@
 - N DIP, Computer Systems Engineering	| Durban University of Technology (_December 2017_)	 			        		
 
 ## Certifications
-- AWS cloud Practitioner CLF-C02 | AWS (_Current 2024)
+- AWS cloud Practitioner CLF-C02 | AWS (_Current 2024_)
 - Artificial Intelligence in the South African context | Nemisa (_February 2023_)
-- The Complete Python Bootcamp from Zero to Hero in Python | Udemy (By Jose Portilla) (_Current 2023)
+- The Complete Python Bootcamp from Zero to Hero in Python | Udemy (By Jose Portilla) (_Current 2023_)
 
 ## Work Experience
 **Software developer and QA  @ Ice Tech  (_October 2018 - Present_)**
@@ -22,7 +22,7 @@
   business logic and integrate third-party solutions.
 - Automation and Test analysis.
 
-**GIZ AI Pilot Training Program  @ University Of Johannesburg and Nemisa (_July 2022 - 2023 February_ Part-time)**
+**GIZ AI Pilot Training Program  @ University Of Johannesburg and Nemisa (_July 2022 - 2023 February_ Part-time_)**
 - Python Programming: Developed proficiency in Python for data analysis, utilizing libraries such as Pandas, NumPy, 
    and SciPy.
 - Data Manipulation: Conducted data manipulation, cleansing, and preprocessing using Pandas DataFrame.
@@ -78,7 +78,7 @@ Utilized zoomed-in and log-scaled plots to provide a clearer understanding of th
 
 
 ### MobileNet Neural Network skin disease detector 
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+[Publication](https://ieeexplore.ieee.org/document/9183888)
 
 **Introduction**
 Skin cancer, one of the deadliest skin diseases, accounts for 8.2 million deaths and 14.1 million new diagnoses annually worldwide. Recognizing the critical need for early referral for skin disease patients, I developed an efficient automated approach to classify skin cancer lesions.
