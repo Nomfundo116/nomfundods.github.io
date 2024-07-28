@@ -1,5 +1,5 @@
-# nomfundods.github.io
-# Software Developer | Aspiring Data Sciencetist
+
+# Software Developer | Aspiring Data Scientist
 
 #### Technical Skills: Python, SQL, AWS, java
 
