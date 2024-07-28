@@ -76,9 +76,19 @@ Utilized zoomed-in and log-scaled plots to provide a clearer understanding of th
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
-### Amazon Sales Data Analytics
+
+### MobileNet Neural Network skin disease detector 
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+**Introduction**
+Skin cancer, one of the deadliest skin diseases, accounts for 8.2 million deaths and 14.1 million new diagnoses annually worldwide. Recognizing the critical need for early referral for skin disease patients, I developed an efficient automated approach to classify skin cancer lesions.
+
+**Project Overview**
+I constructed a skin disease module capable of classifying seven types of skin lesions, including Benign Keratosis and Melanoma, utilizing machine learning techniques. The classification process employed a MobileNet convolutional neural network (CNN) implemented on a Raspberry Pi, utilizing the Keras architecture for training.
+
+**Implementation**
+MobileNet CNN: I used MobileNet CNN, which implements Depthwise Separable Convolution, significantly reducing computing resource consumption by 8-9 times compared to standard convolution.
+Data Collection: Users could take pictures or upload images using a gadget camera through a Telegram chat bot interface.
+Training and Validation: The model achieved a top-3 validation accuracy of 0.096 and a top-2 accuracy of 0.89.
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
