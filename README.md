@@ -74,7 +74,7 @@ Due to extreme skewness, detailed differences in higher price ranges were diffic
 Utilized zoomed-in and log-scaled plots to provide a clearer understanding of the price distributions. These plots highlighted the high concentration of lower prices and the rapid decline in frequency as prices increased. The logarithmic scale emphasized the distribution across the entire price range more effectively.
 
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![Amazon](/assets/img/eeg_band_discovery.jpeg)
 
 
 ### MobileNet Neural Network skin disease detector 
@@ -91,4 +91,4 @@ MobileNet CNN: I used MobileNet CNN, which implements Depthwise Separable Convol
 Data Collection: Users could take pictures or upload images using a gadget camera through a Telegram chat bot interface.
 Training and Validation: The model achieved a top-3 validation accuracy of 0.096 and a top-2 accuracy of 0.89.
 
-![EEG Bandskin disease detector](/assets/img/eeg_band_discovery.jpeg)
+![EEG Bandskin disease detector](/assets/downloadbtechprojectimg.jfif)
