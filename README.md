@@ -74,7 +74,7 @@ Due to extreme skewness, detailed differences in higher price ranges were diffic
 Utilized zoomed-in and log-scaled plots to provide a clearer understanding of the price distributions. These plots highlighted the high concentration of lower prices and the rapid decline in frequency as prices increased. The logarithmic scale emphasized the distribution across the entire price range more effectively.
 
 
-![Amazon](/assets/img/eeg_band_discovery.jpeg)
+![Amazon](/assets/downloadamazon.jfif)
 
 
 ### MobileNet Neural Network skin disease detector 
