@@ -91,4 +91,4 @@ MobileNet CNN: I used MobileNet CNN, which implements Depthwise Separable Convol
 Data Collection: Users could take pictures or upload images using a gadget camera through a Telegram chat bot interface.
 Training and Validation: The model achieved a top-3 validation accuracy of 0.096 and a top-2 accuracy of 0.89.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![EEG Bandskin disease detector](/assets/img/eeg_band_discovery.jpeg)
