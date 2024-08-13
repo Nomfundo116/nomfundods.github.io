@@ -79,7 +79,6 @@ Utilized zoomed-in and log-scaled plots to provide a clearer understanding of th
 ![Amazon](/assets/downloadamazon.jfif)
 
 ##
-##
 
 
 ### MobileNet Neural Network skin disease detector 
