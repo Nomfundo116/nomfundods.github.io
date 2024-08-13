@@ -46,6 +46,8 @@
 ## Projects
 ### Amazon Sales Data Analytics
 
+[Project Notebook on github](DataAnalytics/AI_PRISM_FINAL.ipynb)
+
 This project involves a comprehensive analysis of Amazon sales data to extract meaningful insights and understand various aspects of product pricing, discounting, and customer reviews. The analysis was conducted using Google Colab, leveraging Python for data manipulation, analysis, and visualization.
 Project Description: Analysis of Amazon Sales Data
 
